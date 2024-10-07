@@ -1,0 +1,20 @@
+body{
+    background-color: blue;
+    background-image: url("images/kitten.jpeg");
+}
+h2{
+    margin:0;
+}
+
+.videothumb{
+    width:200px;
+    height: 100px;
+    background-color: black;
+    margin:10px;
+}
+
+#highlightVideo .videothumb{
+ width: 500px;
+ height: 300px;
+}
+
