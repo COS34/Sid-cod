@@ -1,9 +1,13 @@
 body{
-    background-color: blue;
-    background-image: url("images/kitten.jpeg");
+    background-color: rgb(0, 0, 0);
+    background-image: url("images/Warzone.jpg");
+    background-size: cover;
+    color: white;
+    font-family: "Sixtyfour Convergence", sans-serif;
 }
 h2{
     margin:0;
+    color: red;
 }
 
 .videothumb{
